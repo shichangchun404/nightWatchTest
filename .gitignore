@@ -7,3 +7,4 @@ yarn-error.log*
 !/.vscode/
 chromedriver.log
 test/e2e/reports/
+tests_output/
