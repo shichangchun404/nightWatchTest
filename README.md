@@ -18,3 +18,5 @@
 3 Test settings
 是一些Nightwatch 实例的配置信息。可以配置多个不同的配置对象，模拟多种测试环境。
 
+### npm install mochawesome 
+输出漂亮的测试报告

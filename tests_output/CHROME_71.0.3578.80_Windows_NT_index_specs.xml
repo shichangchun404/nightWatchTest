@@ -5,11 +5,9 @@
 
   <testsuite name="index_specs"
     errors="0" failures="0" hostname="" id="" package="index_specs" skipped="0"
-    tests="1" time="2.367" timestamp="">
+    tests="1" time="1.718" timestamp="">
   
-    <testcase name="test for baidu" classname="index_specs" time="2.367" assertions="4">
-
-    
+    <testcase name="test for baidu" classname="index_specs" time="1.718" assertions="3">
 
     
 
