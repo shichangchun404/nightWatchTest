@@ -4,7 +4,7 @@
   "description": "nightwatch test project",
   "main": "index.js",
   "scripts": {
-    "test": "nightwatch -c  test/e2e/nightwatch.conf.js",
+    "test": "nightwatch test/e2e/specs/2test.spec.js -c  test/e2e/nightwatch.conf.js",
     "build": "node build/build.js"
   },
   "author": "shicc",
